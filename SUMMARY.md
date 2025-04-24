@@ -1,0 +1,17 @@
+# Table of contents
+
+* [About OTTP](README.md)
+* [Learn Concepts](learn-concepts/README.md)
+  * [Accounts](learn-concepts/accounts.md)
+  * [Attestations](learn-concepts/attestations.md)
+  * [Projects, Proposals, Milestones, and Contributions](learn-concepts/projects-proposals-milestones-and-contributions.md)
+  * [Apps](learn-concepts/apps.md)
+* [Build Apps / Clients](build-apps-clients/README.md)
+  * [Getting Started / SDK](build-apps-clients/getting-started-sdk.md)
+  * [Subjects](build-apps-clients/subjects.md)
+  * [Objects](build-apps-clients/objects.md)
+  * [Blocks](build-apps-clients/blocks.md)
+  * [Links](build-apps-clients/links.md)
+* [Build Protocol](build-protocol.md)
+* [Resources](resources/README.md)
+  * [Contracts and Schemas](resources/contracts-and-schemas.md)
