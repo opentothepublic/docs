@@ -4,7 +4,7 @@
 
 Accounts are currently created by making an attestation with an Ethereum wallet on Base.
 
-Upon account creation, every user is assigned an **OTTP ID**. This is permanent, and never changes.
+Upon account creation, every user is assigned an **OTTP ID**. This is permanent and never changes.
 
 
 
